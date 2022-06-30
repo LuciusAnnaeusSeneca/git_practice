@@ -3,3 +3,5 @@ bananas
 oranges
 strawberries
 apples
+MEAT
+Sausage
