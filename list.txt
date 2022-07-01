@@ -5,3 +5,4 @@ strawberries
 apples
 MEAT
 Sausage
+DAIRY
