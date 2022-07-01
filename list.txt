@@ -8,3 +8,6 @@ Sausage
 Steak
 prawns
 DAIRY
+milk
+eggs
+cheese
