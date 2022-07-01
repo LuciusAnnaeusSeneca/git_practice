@@ -6,3 +6,6 @@ apples
 MEAT
 Sausage
 DAIRY
+milk
+eggs
+cheese
